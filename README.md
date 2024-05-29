@@ -5,7 +5,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests. 💗
 
 ## Year 2024
-1. [CV][ICASSP 2024] **Contrastive Deep Nonnegative Matrix Factorization for Community Detection** [[paper]](https://arxiv.org/abs/2311.02357) [[code]](https://github.com/6lyc/CDNMF)
+1. [CV][ArXiV] **Low-rank Attention Side-Tuning for Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/pdf/2402.04009) [[code]](None)
    
 ## Year 2023
 
