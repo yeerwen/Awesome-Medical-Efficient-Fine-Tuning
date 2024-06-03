@@ -20,11 +20,13 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 1. [CV][ArXiV] **Low-rank Attention Side-Tuning for Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/pdf/2402.04009) [None]
 2. [Medical][MIDL2024] **Med-Tuning: A New Parameter-Efficient Tuning Framework for Medical Volumetric Segmentation** [[paper]](https://arxiv.org/pdf/2304.10880v4) [[code]](https://github.com/jessie-chen99/Med-Tuning-Official) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/3Dseg-green) ![](https://img.shields.io/badge/Adapter-orange)
 3. [CV][ArXiV] **MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/abs/2405.12130) [[code]](https://github.com/kongds/MoRA)
+4. [CV][ArXiV] **Revisiting the Power of Prompt for Visual Tuning** [[paper]](https://arxiv.org/pdf/2402.02382) [[code]](https://github.com/WangYZ1608/Self-Prompt-Tuning) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Prompt-orange)
 ## Year 2023
-
+1. [CV][IEEE][2023] **Pro-tuning: Unified Prompt Tuning for Vision Tasks** [[paper]](https://ieeexplore.ieee.org/abstract/document/10295530) [None] ![](https://img.shields.io/badge/CNN&Trans-blue) ![](https://img.shields.io/badge/Prompt-orange)
+2. [Medical][ArXiV] **DVPT: Dynamic Visual Prompt Tuning of Large Pre-trained Models for Medical Image Analysis** [[paper]](https://arxiv.org/pdf/2307.09787) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Prompt-orange)
 
 ## Year 2022
-
+1. [CV][ECCV][2022] **Visual Prompt Tuning** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_41) [[code]](https://github.com/kmnp/vpt) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Prompt-orange)
 ## Year 2021
 
 ## Year 2020
