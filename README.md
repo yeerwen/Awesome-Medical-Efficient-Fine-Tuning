@@ -19,6 +19,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 ## Year 2024
 1. [CV][ArXiV] **Low-rank Attention Side-Tuning for Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/pdf/2402.04009) [None]
 2. [Medical][MIDL2024] **Med-Tuning: A New Parameter-Efficient Tuning Framework for Medical Volumetric Segmentation** [[paper]](https://arxiv.org/pdf/2304.10880v4) [[code]](https://github.com/jessie-chen99/Med-Tuning-Official) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/3Dseg-green) ![](https://img.shields.io/badge/Adapter-orange)
+3. [CV][ArXiV] **MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/abs/2405.12130) [[code]](https://github.com/kongds/MoRA)
 ## Year 2023
 
 
