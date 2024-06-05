@@ -30,6 +30,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 7. [CV][CVPR][2024] **Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets** [[paper]](https://arxiv.org/pdf/2208.07463) [[code]](https://github.com/Hhhhhhao/Conv-Adapter/tree/main) ![](https://img.shields.io/badge/CNN-blue) ![](https://img.shields.io/badge/Adapter-orange)
 8. [Medical][ArXiV][2024] **FPT: PEFT for High-resolution Medical Image Classification** [[paper]](https://arxiv.org/pdf/2403.07576v2) [[code]](https://github.com/yijinhuang/fpt) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/2Dcls-green) ![](https://img.shields.io/badge/Side_Tuning-orange)
 9. [CV][ICLR][2024] **CONVOLUTION MEETS LORA: PARAMETER EFFICIENT FINETUNING FOR SEGMENT ANYTHING MODEL** [[paper]](https://arxiv.org/pdf/2401.17868) [[code]](https://github.com/autogluon/autogluon/tree/master/examples/automm/Conv-LoRA) ![](https://img.shields.io/badge/SAM-blue) ![](https://img.shields.io/badge/2Dseg-green) ![](https://img.shields.io/badge/LoRA-orange)
+10. [CV][AAAI][2024] **DTL: Disentangled Transfer Learning for Visual Recognition** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29096) [[code]](https://github.com/heekhero/DTL) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
 
 ## Year 2023
 
