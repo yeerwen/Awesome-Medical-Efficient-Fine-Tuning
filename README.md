@@ -37,6 +37,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 1. [CV][TCSVT][2023] **Pro-tuning: Unified Prompt Tuning for Vision Tasks** [[paper]](https://ieeexplore.ieee.org/abstract/document/10295530) [None] ![](https://img.shields.io/badge/CNN&Trans-blue) ![](https://img.shields.io/badge/Prompt-orange)
 2. [Medical][ArXiV][2023] **DVPT: Dynamic Visual Prompt Tuning of Large Pre-trained Models for Medical Image Analysis** [[paper]](https://arxiv.org/pdf/2307.09787) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Prompt-orange)
 3. [CV][ArXiV][2023] **Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions** [[paper]](https://arxiv.org/pdf/2306.09729) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
+4. [CV][ArXiV][2023] **PVP: Pre-trained Visual Parameter-Efficient Tuning** [[paper]](https://arxiv.org/abs/2304.13639) [[None]] 
 
 ## Year 2022
 
