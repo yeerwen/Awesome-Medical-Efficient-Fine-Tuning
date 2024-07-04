@@ -31,6 +31,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 8. [Medical][ArXiV][2024] **FPT: PEFT for High-resolution Medical Image Classification** [[paper]](https://arxiv.org/pdf/2403.07576v2) [[code]](https://github.com/yijinhuang/fpt) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/2Dcls-green) ![](https://img.shields.io/badge/Side_Tuning-orange)
 9. [CV][ICLR][2024] **Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model** [[paper]](https://arxiv.org/pdf/2401.17868) [[code]](https://github.com/autogluon/autogluon/tree/master/examples/automm/Conv-LoRA) ![](https://img.shields.io/badge/SAM-blue) ![](https://img.shields.io/badge/2Dseg-green) ![](https://img.shields.io/badge/LoRA-orange)
 10. [CV][AAAI][2024] **DTL: Disentangled Transfer Learning for Visual Recognition** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29096) [[code]](https://github.com/heekhero/DTL) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
+11. [Medical][MICCAI][2024] **Fine-grained Prompt Tuning: A Parameter and Memory Efficient Transfer Learning Method for High-resolution Medical Image Classification** [[paper]](https://arxiv.org/pdf/2403.07576) [[code]](https://github.com/yijinhuang/fpt) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/2Dcls-green) ![](https://img.shields.io/badge/Side_Tuning/VPT-orange) 
 
 ## Year 2023
 
