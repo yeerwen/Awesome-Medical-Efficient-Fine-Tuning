@@ -32,14 +32,16 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 9. [CV][ICLR][2024] **Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model** [[paper]](https://arxiv.org/pdf/2401.17868) [[code]](https://github.com/autogluon/autogluon/tree/master/examples/automm/Conv-LoRA) ![](https://img.shields.io/badge/SAM-blue) ![](https://img.shields.io/badge/2Dseg-green) ![](https://img.shields.io/badge/LoRA-orange)
 10. [CV][AAAI][2024] **DTL: Disentangled Transfer Learning for Visual Recognition** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29096) [[code]](https://github.com/heekhero/DTL) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
 11. [Medical][MICCAI][2024] **Fine-grained Prompt Tuning: A Parameter and Memory Efficient Transfer Learning Method for High-resolution Medical Image Classification** [[paper]](https://arxiv.org/pdf/2403.07576) [[code]](https://github.com/yijinhuang/fpt) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/2Dcls-green) ![](https://img.shields.io/badge/Side_Tuning/VPT-orange)
-12. [CV][ECCV][2024] **Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach** [[paper]](https://arxiv.org/abs/2407.06964) [None] ![]((https://img.shields.io/badge/Trans/Conv-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
+12. [CV][ECCV][2024] **Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach** [[paper]](https://arxiv.org/abs/2407.06964) [None] ![]((https://img.shields.io/badge/Trans&Conv-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
+13. [CV][ArXiV][2024] **CVPT: Cross-Attention help Visual Prompt Tuning adapt visual task** [[paper]](https://arxiv.org/abs/2408.14961) [[code]](https://github.com/xlgsyzp/cvpt) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/VPT-orange)
 
 ## Year 2023
 
 1. [CV][TCSVT][2023] **Pro-tuning: Unified Prompt Tuning for Vision Tasks** [[paper]](https://ieeexplore.ieee.org/abstract/document/10295530) [None] ![](https://img.shields.io/badge/CNN&Trans-blue) ![](https://img.shields.io/badge/Prompt-orange)
 2. [Medical][ArXiV][2023] **DVPT: Dynamic Visual Prompt Tuning of Large Pre-trained Models for Medical Image Analysis** [[paper]](https://arxiv.org/pdf/2307.09787) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Prompt-orange)
 3. [CV][ArXiV][2023] **Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions** [[paper]](https://arxiv.org/pdf/2306.09729) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
-4. [CV][ArXiV][2023] **PVP: Pre-trained Visual Parameter-Efficient Tuning** [[paper]](https://arxiv.org/abs/2304.13639) [[None]] 
+4. [CV][ArXiV][2023] **PVP: Pre-trained Visual Parameter-Efficient Tuning** [[paper]](https://arxiv.org/abs/2304.13639) [[None]]
+5. [CV][CVPR][2023] **Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning** [[paper]](https://arxiv.org/abs/2212.03220) [[code]](https://github.com/andytu28/VQT) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
 
 ## Year 2022
 
