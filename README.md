@@ -38,6 +38,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 15. [NLP][ArXiV][2024] **MoRe Fine-Tuning with 10x Fewer Parameters** [[paper]](https://openreview.net/pdf?id=AzTz27n6O2) [[code]](https://github.com/sprocketlab/sparse_matrix_fine_tuning) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 16. [NLP][ACL][2024] **MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter** [[paper]](https://arxiv.org/abs/2406.04984) [[code]](https://github.com/currentf/meft) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
 17. [NLP][ACL][2024] **MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning** [[paper]](https://aclanthology.org/2024.acl-long.168/) [[code]](https://github.com/chasonshi/melora) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
+18. [CV][ArXiV][2024] **iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation** [[paper]](https://arxiv.org/abs/2409.02838) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
 
 ## Year 2023
 
