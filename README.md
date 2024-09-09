@@ -47,6 +47,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 3. [CV][ArXiV][2023] **Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions** [[paper]](https://arxiv.org/pdf/2306.09729) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
 4. [CV][ArXiV][2023] **PVP: Pre-trained Visual Parameter-Efficient Tuning** [[paper]](https://arxiv.org/abs/2304.13639) [[None]]
 5. [CV][CVPR][2023] **Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning** [[paper]](https://arxiv.org/abs/2212.03220) [[code]](https://github.com/andytu28/VQT) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
+6. [CV][ICCV][2023] **E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning** [[paper]](https://arxiv.org/pdf/2307.13770) [[code]](https://github.com/ChengHan111/E2VPT) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Prompt-orange)
 
 ## Year 2022
 
