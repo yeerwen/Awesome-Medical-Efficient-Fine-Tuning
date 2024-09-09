@@ -39,6 +39,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 16. [NLP][ACL][2024] **MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter** [[paper]](https://arxiv.org/abs/2406.04984) [[code]](https://github.com/currentf/meft) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
 17. [NLP][ACL][2024] **MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning** [[paper]](https://aclanthology.org/2024.acl-long.168/) [[code]](https://github.com/chasonshi/melora) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 18. [CV][ArXiV][2024] **iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation** [[paper]](https://arxiv.org/abs/2409.02838) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
+19. [Medical][ArXiV][2024] **Pre-training Everywhere: Parameter-Efficient Fine-Tuning for Medical Image Analysis via Target Parameter Pre-training** [[paper]](https://arxiv.org/abs/2408.15011) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/General-orange)
 
 ## Year 2023
 
@@ -48,6 +49,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 4. [CV][ArXiV][2023] **PVP: Pre-trained Visual Parameter-Efficient Tuning** [[paper]](https://arxiv.org/abs/2304.13639) [[None]]
 5. [CV][CVPR][2023] **Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning** [[paper]](https://arxiv.org/abs/2212.03220) [[code]](https://github.com/andytu28/VQT) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Side_Tuning-orange)
 6. [CV][ICCV][2023] **E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning** [[paper]](https://arxiv.org/pdf/2307.13770) [[code]](https://github.com/ChengHan111/E2VPT) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Prompt-orange)
+7. [CV][ArXiV][2023] **PVP: Pre-trained Visual ParameterEfficient Tuning** [[paper]](https://arxiv.org/abs/2304.13639) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/General-orange)
 
 ## Year 2022
 
