@@ -40,6 +40,8 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 17. [NLP][ACL][2024] **MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning** [[paper]](https://aclanthology.org/2024.acl-long.168/) [[code]](https://github.com/chasonshi/melora) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 18. [CV][ArXiV][2024] **iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation** [[paper]](https://arxiv.org/abs/2409.02838) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
 19. [Medical][ArXiV][2024] **Pre-training Everywhere: Parameter-Efficient Fine-Tuning for Medical Image Analysis via Target Parameter Pre-training** [[paper]](https://arxiv.org/abs/2408.15011) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/General-orange)
+20. [NLP][ArXiV][2024] **Mixture-of-Subspaces in Low-Rank Adaptation** [[paper]](https://arxiv.org/abs/2406.11909) [[code]]((https://github.com/wutaiqiang/moslora) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
+21. [NLP][ArXiV][2024] **LAYERNORM: A KEY COMPONENT IN PARAMETER-EFFICIENT FINE-TUNING** [[paper]](https://arxiv.org/abs/2403.20284) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Partial-orange)
 
 ## Year 2023
 
