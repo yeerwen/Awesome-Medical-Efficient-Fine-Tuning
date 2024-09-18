@@ -64,14 +64,14 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 
 ## Medical Datasets of EFT
 
-|      Name       | Modality | Train | Val  | Test |                             Link                             |
-| :-------------: | :------: | :---: | :--: | :--: | :----------------------------------------------------------: |
-|      MHIST      |  Path.   | 3152  |  -   |  -   |               https://bmirds.github.io/MHIST/                |
-| Chest X-ray PD  |  X-ray   | 4575  |  -   |  -   | [Chest X-ray PD Dataset 数据集介绍 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/661311561) |
-| Retinal OCT C8  |   OCT    | 18400 | 2800 | 2800 | [Retinal OCT-C8 数据集介绍 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/676865930) |
-|      GlaS       |  Path.   |  85   |  -   |  80  | https://www.kaggle.com/datasets/sani84/glasmiccai2015-gland-segmentation |
-| QaTa-COVID19-v2 |  X-ray   | 7145  |  -   | 2113 | https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset |
-|     ChestXR     |  X-ray   | 17955 |  -   | 3430 |      https://cxr-covid19.grand-challenge.org/Download/       |
-|    HAM10000     |   Skin   | 10015 |  -   |  -   | https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000 |
-|       ...       |          |       |      |      |                                                              |
+|      Name       | Modality | Task | Train | Val  | Test |                             Link                             |
+| :-------------: | :------: | ---- | :---: | :--: | :--: | :----------------------------------------------------------: |
+|      MHIST      |  Path.   | Cls. | 3152  |  -   |  -   |               https://bmirds.github.io/MHIST/                |
+| Chest X-ray PD  |  X-ray   | Cls. | 4575  |  -   |  -   | [Chest X-ray PD Dataset 数据集介绍 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/661311561) |
+| Retinal OCT C8  |   OCT    | Cls. | 18400 | 2800 | 2800 | [Retinal OCT-C8 数据集介绍 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/676865930) |
+|      GlaS       |  Path.   | Seg. |  85   |  -   |  80  | https://www.kaggle.com/datasets/sani84/glasmiccai2015-gland-segmentation |
+| QaTa-COVID19-v2 |  X-ray   | Seg. | 7145  |  -   | 2113 | https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset |
+|     ChestXR     |  X-ray   | Cls. | 17955 |  -   | 3430 |      https://cxr-covid19.grand-challenge.org/Download/       |
+|    HAM10000     |   Skin   | Cls. | 10015 |  -   |  -   | https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000 |
+|       ...       |          |      |       |      |      |                                                              |
 
