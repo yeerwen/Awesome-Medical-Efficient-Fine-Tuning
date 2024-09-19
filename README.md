@@ -64,14 +64,19 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 
 ## Medical Datasets of EFT
 
-|      Name       | Modality | Task | Train | Val  | Test |                             Link                             |
-| :-------------: | :------: | ---- | :---: | :--: | :--: | :----------------------------------------------------------: |
-|      MHIST      |  Path.   | Cls. | 3152  |  -   |  -   |               https://bmirds.github.io/MHIST/                |
-| Chest X-ray PD  |  X-ray   | Cls. | 4575  |  -   |  -   | [Chest X-ray PD Dataset 数据集介绍 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/661311561) |
-| Retinal OCT C8  |   OCT    | Cls. | 18400 | 2800 | 2800 | [Retinal OCT-C8 数据集介绍 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/676865930) |
-|      GlaS       |  Path.   | Seg. |  85   |  -   |  80  | https://www.kaggle.com/datasets/sani84/glasmiccai2015-gland-segmentation |
-| QaTa-COVID19-v2 |  X-ray   | Seg. | 7145  |  -   | 2113 | https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset |
-|     ChestXR     |  X-ray   | Cls. | 17955 |  -   | 3430 |      https://cxr-covid19.grand-challenge.org/Download/       |
-|    HAM10000     |   Skin   | Cls. | 10015 |  -   |  -   | https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000 |
-|       ...       |          |      |       |      |      |                                                              |
+|      Name       |  Modality  | Task      | Train | Val  | Test |                             Link                             |
+| :-------------: | :--------: | --------- | :---: | :--: | :--: | :----------------------------------------------------------: |
+|      MHIST      |   Path.    | Cls.      | 3152  |  -   |  -   |               https://bmirds.github.io/MHIST/                |
+| Chest X-ray PD  |   X-ray    | Cls.      | 4575  |  -   |  -   | [COVID19, Pneumonia and Normal Chest X-ray PA Dataset - Mendeley Data](https://data.mendeley.com/datasets/jctsfj2sfn/1) |
+| Retinal OCT C8  |    OCT     | Cls.      | 18400 | 2800 | 2800 | [Retinal OCT - C8 (kaggle.com)](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8) |
+|      GlaS       |   Path.    | Seg.      |  85   |  -   |  80  | https://www.kaggle.com/datasets/sani84/glasmiccai2015-gland-segmentation |
+| QaTa-COVID19-v2 |   X-ray    | Seg.      | 7145  |  -   | 2113 | https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset |
+|     ChestXR     |   X-ray    | Cls.      | 17955 |  -   | 3430 |      https://cxr-covid19.grand-challenge.org/Download/       |
+|    HAM10000     |    Skin    | Cls.      | 10015 |  -   |  -   | https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000 |
+|    ISIC2017     |    Skin    | Seg.      | 2000  | 150  | 600  | [ISIC Challenge (isic-archive.com)](https://challenge.isic-archive.com/data/#2017) |
+|   Kvasir-SEG    | Endoscope  | Seg.      |  880  | 120  | 160  | [Simula Datasets - Kvasir SEG](https://datasets.simula.no/kvasir-seg/) |
+|      CRAG       |   Path.    | Seg.      |  173  |      |  40  |    https://warwick.ac.uk/fac/cross_fac/tia/data/mildnet/     |
+|   Messidor-2    |   Fundus   | Cls.      | 1748  |      |      | https://www.kaggle.com/datasets/mariaherrerot/messidor2preprocess |
+|      BUSI       | Ultrasound | Cls./Seg. |  780  |      |      | https://link.zhihu.com/?target=https%3A//scholar.cu.edu.eg/%3Fq%3Dafahmy/pages/dataset |
+|       ...       |            |           |       |      |      |                                                              |
 
