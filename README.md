@@ -43,6 +43,8 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 20. [NLP][ArXiV][2024] **Mixture-of-Subspaces in Low-Rank Adaptation** [[paper]](https://arxiv.org/abs/2406.11909) [[code]]((https://github.com/wutaiqiang/moslora) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 21. [NLP][ArXiV][2024] **LAYERNORM: A KEY COMPONENT IN PARAMETER-EFFICIENT FINE-TUNING** [[paper]](https://arxiv.org/abs/2403.20284) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Partial-orange)
 22. [NLP][ArXiV][2024] **See Further for Parameter Efficient Fine-tuning by Standing on the Shoulders of Decomposition** [[paper]](https://arxiv.org/abs/2407.05417) [[code]](https://github.com/Chongjie-Si/Subspace-Tuning) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/General-orange)
+23. [CV][ECCV Workshop][2024] **Down-Sampling Inter-Layer Adapter for Parameter and Computation Efficient Ultra-Fine-Grained Image Recognition** [[paper]](https://arxiv.org/abs/2409.11051) [[code]](https://github.com/arkel23/DownSamplingInterLayerAdapter) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
+24. [CV][ArXiV][2024] **Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think** [[paper]](https://arxiv.org/abs/2409.11355) [[code]](https://github.com/VisualComputingInstitute/diffusion-e2e-ft) ![](https://img.shields.io/badge/Diffusion-blue)
 
 ## Year 2023
 
