@@ -45,7 +45,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 22. [NLP][ArXiV][2024] **See Further for Parameter Efficient Fine-tuning by Standing on the Shoulders of Decomposition** [[paper]](https://arxiv.org/abs/2407.05417) [[code]](https://github.com/Chongjie-Si/Subspace-Tuning) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/General-orange)
 23. [CV][ECCV Workshop][2024] **Down-Sampling Inter-Layer Adapter for Parameter and Computation Efficient Ultra-Fine-Grained Image Recognition** [[paper]](https://arxiv.org/abs/2409.11051) [[code]](https://github.com/arkel23/DownSamplingInterLayerAdapter) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
 24. [CV][ArXiV][2024] **Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think** [[paper]](https://arxiv.org/abs/2409.11355) [[code]](https://github.com/VisualComputingInstitute/diffusion-e2e-ft) ![](https://img.shields.io/badge/Diffusion-blue)
-25. [CV][EMNLP][2024] **MaPPER: Multimodal Prior-guided Parameter Efficient Tuning for Referring Expression Comprehension** [[paper]](https://arxiv.org/abs/2409.13609) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
+25. [NLP][EMNLP][2024] **MaPPER: Multimodal Prior-guided Parameter Efficient Tuning for Referring Expression Comprehension** [[paper]](https://arxiv.org/abs/2409.13609) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
 
 ## Year 2023
 
