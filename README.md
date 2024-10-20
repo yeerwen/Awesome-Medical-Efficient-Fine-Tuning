@@ -50,6 +50,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 27. [CV][ArXiV][2024] **Lessons Learned from a Unifying Empirical Study of Parameter-Efficient Transfer Learning (PETL) in Visual Recognition** [[paper]]() [[code]]()(https://github.com/OSU-MLB/PETL_Vision) ![](https://img.shields.io/badge/General-orange)
 28. [CV][NeurIPS][2024] **PACE: marrying generalization in PArameter-efficient fine-tuning with Consistency rEgularization** [[paper]](https://www.arxiv.org/abs/2409.17137) [[code]](https://github.com/MaxwellYaoNi/PACE) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/General-orange)
 29. [NLP][NeurIPS Workshop FITML][2024] **Parameter-Efficient Fine-Tuning of State Space Models** [[paper]](https://arxiv.org/abs/2410.09016v1) [[code]](https://github.com/furiosa-ai/ssm-peft) ![](https://img.shields.io/badge/SSMs-blue) ![](https://img.shields.io/badge/General-orange)
+30. [NLP][ArXiV][2024] **Visual Perception by Large Language Model’s Weights** [[paper]](https://arxiv.org/abs/2405.20339) [None] ![](https://img.shields.io/badge/CLIP-blue) ![](https://img.shields.io/badge/LoRA-orange)
 
 ## Year 2023
 
