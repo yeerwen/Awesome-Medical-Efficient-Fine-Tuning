@@ -52,6 +52,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 29. [NLP][NeurIPS Workshop FITML][2024] **Parameter-Efficient Fine-Tuning of State Space Models** [[paper]](https://arxiv.org/abs/2410.09016v1) [[code]](https://github.com/furiosa-ai/ssm-peft) ![](https://img.shields.io/badge/SSMs-blue) ![](https://img.shields.io/badge/General-orange)
 30. [NLP][ArXiV][2024] **Visual Perception by Large Language Model’s Weights** [[paper]](https://arxiv.org/abs/2405.20339) [None] ![](https://img.shields.io/badge/CLIP-blue) ![](https://img.shields.io/badge/LoRA-orange)
 31. [NLP][NeurIPS][2024] **HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning** [[paper]](https://arxiv.org/abs/2404.19245) [[code]](https://github.com/Clin0212/HydraLoRA?tab=readme-ov-file) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
+32. [CV][ArXiV][2024] **LoLDU: Low-Rank Adaptation via  Lower-Diag-Upper Decomposition for  Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/pdf/2410.13618) [[code]](https://github.com/SKDDJ/LoLDU) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 
 ## Year 2023
 
