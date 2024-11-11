@@ -54,6 +54,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 31. [NLP][NeurIPS][2024] **HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning** [[paper]](https://arxiv.org/abs/2404.19245) [[code]](https://github.com/Clin0212/HydraLoRA?tab=readme-ov-file) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 32. [CV][ArXiV][2024] **LoLDU: Low-Rank Adaptation via  Lower-Diag-Upper Decomposition for  Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/pdf/2410.13618) [[code]](https://github.com/SKDDJ/LoLDU) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 33. [NLP][ArXiV][2024] **Preserving Pre-trained Representation Space: On Effectiveness of Prefix-tuning for Large Multi-modal Models** [[paper]](https://openreview.net/pdf?id=w4XrnUKjAh) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/General-orange)
+34. [NLP][ArXiV][2024] **LORA VS FULL FINE-TUNING: AN ILLUSION OF EQUIVALENCE** [[paper]](https://arxiv.org/abs/2410.21228) [None] ![](https://img.shields.io/badge/LoRA-orange)
 
 ## Year 2023
 
