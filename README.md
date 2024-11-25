@@ -55,7 +55,8 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 32. [CV][ArXiV][2024] **LoLDU: Low-Rank Adaptation via  Lower-Diag-Upper Decomposition for  Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/pdf/2410.13618) [[code]](https://github.com/SKDDJ/LoLDU) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 33. [NLP][ArXiV][2024] **Preserving Pre-trained Representation Space: On Effectiveness of Prefix-tuning for Large Multi-modal Models** [[paper]](https://openreview.net/pdf?id=w4XrnUKjAh) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/General-orange)
 34. [NLP][ArXiV][2024] **LORA VS FULL FINE-TUNING: AN ILLUSION OF EQUIVALENCE** [[paper]](https://arxiv.org/abs/2410.21228) [None] ![](https://img.shields.io/badge/LoRA-orange)
-35. [NLP][ArXiV][2025] **Visual Cue Enhancement and Dual Low-Rank Adaptation for Efficient Visual Instruction Fine-Tuning** [[paper]](https://papers.cool/arxiv/2411.12787) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
+35. [NLP][ArXiV][2024] **Visual Cue Enhancement and Dual Low-Rank Adaptation for Efficient Visual Instruction Fine-Tuning** [[paper]](https://papers.cool/arxiv/2411.12787) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
+36. [NLP][ArXiV][2024] **Separable Mixture of Low-Rank Adaptation for Continual Visual Instruction Tuning** [[paper]](https://arxiv.org/abs/2411.13949) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 
 ## Year 2023
 
