@@ -58,6 +58,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 35. [NLP][ArXiV][2024] **Visual Cue Enhancement and Dual Low-Rank Adaptation for Efficient Visual Instruction Fine-Tuning** [[paper]](https://papers.cool/arxiv/2411.12787) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 36. [NLP][ArXiV][2024] **Separable Mixture of Low-Rank Adaptation for Continual Visual Instruction Tuning** [[paper]](https://arxiv.org/abs/2411.13949) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 37. [CV][ArXiV][2024] **Enhancing Parameter-Efficient Fine-Tuning of Vision Transformers through Frequency-Based Adaptation** [[paper]](https://arxiv.org/abs/2411.19297) [[code]](https://github.com/tsly123/freqfit) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
+38. [CV][ArXiV][2024] **SimCMF: ASimple Cross-modal Fine-tuning Strategy from Vision Foundation Models to Any Imaging Modality** [[paper]](https://arxiv.org/abs/2411.18669) [[code]](https://github.com/mt-cly/SimCMF) ![](https://img.shields.io/badge/SAM-blue) ![](https://img.shields.io/badge/Adapter-orange)
 
 ## Year 2023
 
