@@ -60,6 +60,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 37. [CV][ArXiV][2024] **Enhancing Parameter-Efficient Fine-Tuning of Vision Transformers through Frequency-Based Adaptation** [[paper]](https://arxiv.org/abs/2411.19297) [[code]](https://github.com/tsly123/freqfit) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/Adapter-orange)
 38. [CV][ArXiV][2024] **SimCMF: ASimple Cross-modal Fine-tuning Strategy from Vision Foundation Models to Any Imaging Modality** [[paper]](https://arxiv.org/abs/2411.18669) [[code]](https://github.com/mt-cly/SimCMF) ![](https://img.shields.io/badge/SAM-blue) ![](https://img.shields.io/badge/Adapter-orange)
 39. [CV][icassp][2025] **Semantic Hierarchical Prompt Tuning for Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/abs/2412.16956) [[code]](https://github.com/haoweiz23/SHIP) ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/VPT-orange)
+40. [Vision&Language][ArXiV][2024] **Towards Compatible Fine-tuning for Vision-Language Model** [[paper]](https://arxiv.org/abs/2412.20895) [None] ![](https://img.shields.io/badge/CLIP-blue) ![](https://img.shields.io/badge/Prompt-orange)
 
 ## Year 2023
 
