@@ -19,6 +19,11 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 2. [CV][ACM Computing Surveys][2023] **Visual Tuning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3657632) [None]
 3. [CV][ArXiV][2024] **Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey** [[paper]](https://arxiv.org/pdf/2402.02242) [[code]](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning)
 
+## Year 2025
+1. [NLP][ArXiV][2025] **DiffoRA: Enabling Parameter-Efficient LLM Fine-Tuning via Differential Low-Rank Matrix Adaptation** [[paper]](https://arxiv.org/abs/2502.08905) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
+2. [NLP][ArXiV][2025] **Visual-RFT: Visual Reinforcement Fine-Tuning** [[paper]](https://arxiv.org/abs/2503.01785) [[code]](https://github.com/Liuziyu77/Visual-RFT)
+3. 
+
 ## Year 2024
 
 1. [CV][ArXiV] **Low-rank Attention Side-Tuning for Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/pdf/2402.04009) [None]
