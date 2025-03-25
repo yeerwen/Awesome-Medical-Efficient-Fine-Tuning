@@ -25,6 +25,7 @@ This repository contains a list of papers on the **Efficient Fine-tuning (EFT) o
 ## Year 2025
 1. [NLP][ArXiV][2025] **DiffoRA: Enabling Parameter-Efficient LLM Fine-Tuning via Differential Low-Rank Matrix Adaptation** [[paper]](https://arxiv.org/abs/2502.08905) [None] ![](https://img.shields.io/badge/Trans-blue) ![](https://img.shields.io/badge/LoRA-orange)
 2. [NLP][ArXiV][2025] **Visual-RFT: Visual Reinforcement Fine-Tuning** [[paper]](https://arxiv.org/abs/2503.01785) [[code]](https://github.com/Liuziyu77/Visual-RFT)
+3. [Cv][CVPR][2025] **DITASK: Multi-Task Fine-Tuning with Diffeomorphic Transformations** [[paper]](https://arxiv.org/abs/2502.06029) [[code]](https://github.com/ipsitmantri/DiTASK) ![](https://img.shields.io/badge/Swin-blue)
 
 ## Year 2024
 
